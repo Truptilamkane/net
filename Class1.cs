@@ -6,7 +6,7 @@ namespace ConsoleApp2
 {
     class Class1
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int n, i, m = 0, flag = 0;
             Console.Write("Enter your prime no");
